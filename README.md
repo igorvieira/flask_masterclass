@@ -1,4 +1,4 @@
-# Flask Masterclass
+# 🐍 Flask Masterclass
 
 > Initial steps of python and micro service with flask
 
@@ -11,4 +11,10 @@
  source .flask-masterclass/bin/activate &&
  python3 -m pip install --upgrade pip &&
  pip install
+```
+
+```bash
+# run
+
+flask run
 ```
